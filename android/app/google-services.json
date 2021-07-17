@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "128428122154",
+    "project_id": "online-quiz-application-83c82",
+    "storage_bucket": "online-quiz-application-83c82.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:128428122154:android:c233b5159045fe055aa353",
+        "android_client_info": {
+          "package_name": "com.example.onlinequiz_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "128428122154-4o5ntungfj94a0o1jcm1ela8212ne3k2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBo7Sl4DBm13GsXSoKFJJxk8BxU36MgMyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "128428122154-4o5ntungfj94a0o1jcm1ela8212ne3k2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
